@@ -1,3 +1,12 @@
 h2{
     color: blue;
 }
+p{
+    text-align: justify;
+    border: 2px solid orangered;
+    padding: 5px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: brown;
+    background-color: rgba(0, 0, 0, 0.375);
+}
